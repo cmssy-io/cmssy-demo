@@ -6,6 +6,10 @@ have an editable, SEO-ready site with three example blocks.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cmssy-io/cmssy-example&env=CMSSY_WORKSPACE_SLUG,CMSSY_DRAFT_SECRET&envDescription=Your%20cmssy%20workspace%20slug%20and%20a%2016%2B%20character%20draft%20secret&envLink=https://www.cmssy.io/docs/installation&project-name=cmssy-example&repository-name=cmssy-example)
 
+> **Try it instantly.** To see the starter render real content before creating your own
+> workspace, use the public demo workspace: set `CMSSY_WORKSPACE_SLUG=cmssy-demo` and any
+> 16+ character string for `CMSSY_DRAFT_SECRET`. Swap in your own slug whenever you're ready.
+
 ## What's inside
 
 - **Zero-config SDK wiring** - one catch-all route renders every cmssy page; you only set
